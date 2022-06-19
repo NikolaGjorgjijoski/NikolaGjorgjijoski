@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&width=800&lines=I'm+Nikola+Gjorgjijoski;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
-
-<h1 align="center"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B;I'm+Nikola+Gjorgjijoski;Welcome+to+my+Github!)](https://git.io/typing-svg)
+<hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaGjorgjijoski&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikolaGjorgjijoski)](https://git.io/streak-stats)
