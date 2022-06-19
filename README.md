@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B;I'm+Nikola+Gjorgjijoski;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B;I'm+Nikola+Gjorgjijoski;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaGjorgjijoski&count_private=true&theme=dark)
