@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B;I'm+Nikola+Gjorgjijoski;Welcome+to+my+Github!)](https://git.io/typing-svg)
 <hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaGjorgjijoski&count_private=false)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikolaGjorgjijoski)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaGjorgjijoski&count_private=true&hide=contribs,prs,issues,stars&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikolaGjorgjijoski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolagjorgjijoski&show_icons=true&locale=en&layout=compact" alt="nikolagjorgjijoski" /></p>
 
