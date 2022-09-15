@@ -2,7 +2,7 @@
 
 <hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikolaGjorgjijoski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikolagjorgjijoski&theme=dark)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolagjorgjijoski&show_icons=true&locale=en&layout=compact" alt="nikolagjorgjijoski" /></p>
 
