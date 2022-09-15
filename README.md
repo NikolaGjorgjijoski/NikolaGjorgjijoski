@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B;I'm+Nikola+Gjorgjijoski;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&width=435&lines=Hi;Welcome+to+my+GitHub!;My+name+is+Nikola+Gjorgjijoski;I'm+a+Full+Stack+Developer.;I+enjoy+Web+Development" alt="Typing SVG" /></a>
 <hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikolaGjorgjijoski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
