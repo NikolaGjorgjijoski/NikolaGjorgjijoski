@@ -13,7 +13,7 @@
 
 <h3 align="center">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en" alt="nikolagjorgjijoski" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en" alt="nikolagjorgjijoski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" /></p>
 
