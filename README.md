@@ -3,14 +3,7 @@
 <hr style="border-top: 8px solid #bbb; border-radius: 5px;">
 
 
-<h1 align="center">Hi 👋, I'm Nikola Gjorgjijoski</h1>
-<h3 align="center">A passionate full stack developer from Australia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolagjorgjijoski&label=Profile%20Visits&color=0e75b6&style=flat" alt="nikolagjorgjijoski" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://nikolagjorgjijoski.com.au](https://nikolagjorgjijoski.com.au)
-
-- 📫 How to reach me **me@nikolajustsave.com.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
