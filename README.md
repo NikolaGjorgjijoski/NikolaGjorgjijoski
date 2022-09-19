@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en" alt="nikolagjorgjijoski" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" /></p>
 
