@@ -13,6 +13,9 @@
 
 <h3 align="center">Stats:</h3>
 
+<center>
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" />
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikolagjorgjijoski" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=radical)
+</center>
 
