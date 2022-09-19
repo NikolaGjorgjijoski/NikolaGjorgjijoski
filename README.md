@@ -13,9 +13,9 @@
 
 <h3 align="center">Stats:</h3>
 
-<center>
+<p>
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolagjorgjijoski&theme=dark" alt="nikolagjorgjijoski" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en&count_private=true&hide=prs,issues,contribs">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikolagjorgjijoski" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolagjorgjijoski&show_icons=true&theme=dark&locale=en&count_private=true&hide=prs,issues,contribs">
-</center>
+</p>
 
